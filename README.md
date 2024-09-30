@@ -34,9 +34,12 @@
 </p>
 
 ---
-# My Project
 
-Welcome to my project! Here’s a fun representation of my GitHub contributions:
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile) - Connect with me on LinkedIn!
+- [Twitter](https://twitter.com/your-twitter-handle) - Follow me on Twitter for updates and insights.
+- [Netlify](https://your-netlify-site.netlify.app) - Check out my deployed projects!
 
 
 
