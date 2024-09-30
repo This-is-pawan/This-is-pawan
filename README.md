@@ -35,13 +35,12 @@
 
 ---
 
-## 🌐 Connect with Me
+## Socials
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile) - Connect with me on LinkedIn!
-- [Twitter](https://twitter.com/your-twitter-handle) - Follow me on Twitter for updates and insights.
-- [Netlify](https://your-netlify-site.netlify.app) - Check out my deployed projects!
+<a href="https://www.github.com/This-is-pawan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
-
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 
 
 ## About This Project
