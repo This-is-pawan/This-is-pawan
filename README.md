@@ -1,35 +1,63 @@
+<h1 align="center">Hi 👋, I'm Pawan Verma</h1>
+<h3 align="center">A passionate frontend and backend developer from India</h3>
+
 <p align="center">
-    <a href="https://github.com/pawanvema"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&lines=Welcome+to+John+Smith's+Profile!;Data+Scientist+and+R+Enthusiast;Lifelong+Learner;Open+Source+Contributor"></a>
-  </p>
-  
-  ## 🌟 About Me
-  
-  Hi there! I’m **pawan verma**, a data scientist with a passion for R programming, machine learning, and open-source contributions. I love solving problems and building solutions that empower others.
-  
-  - 🔭 I’m currently working on [Project X](https://github.com/pawanverma/project-x)
-  - 🌱 I’m currently learning more about **Deep Learning** and **Shiny Apps**
-  - 💬 Ask me about **R**, **Data Science**, or **Contributing to Open Source**
-  - 📫 How to reach me: [Email](mailto:pawanverma@example.com), [LinkedIn](https://www.linkedin.com/in/johnsmith)
-  - 😄 Pronouns: He/Him
-  - ⚡ Fun fact: I once analyzed 1000 datasets just for fun!
-  
-  ## 🛠️ Technologies & Tools
-  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  
-  ## 📊 GitHub Stats
-  
-  <p align="center">
-    <a href="https://github.com/johnsmith">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnsmith&show_icons=true&hide_border=true&theme=radical" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsmith&layout=compact&hide_border=true&theme=radical" />
-    </a>
-  </p>
-  
-  ## 🔗 Let's Connect
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnsmith)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johnsmith)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnsmith@example.com)
-  
+  <img src="https://komarev.com/ghpvc/?username=pawanverma&label=Profile%20views&color=0e75b6&style=flat" alt="pawanverma" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Backend Development with Node.js**
+
+- 🌱 I’m currently learning **Advanced React.js and DevOps**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 💬 Ask me about **JavaScript, React.js, Node.js, HTML, CSS**
+
+- 📫 How to reach me: [pawanjalandhara2001@gmail.com](mailto:pawanjalandhara2001@gmail.com)
+- - 🌾 Besides coding, I have a passion for **Agriculture** and by getting motivated able to do coding well.
+
+
+### 🛠 Languages and Tools:
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pawanverma&show_icons=true&theme=tokyonight" alt="pawanverma" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanverma&theme=tokyonight" alt="pawanverma" />
+</p>
+
+---
+
+### 🔗 Connect with Me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/pawanverma" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="pawanverma" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/pawanverma" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="pawanverma" height="30" width="40" />
+  </a>
+</p>
