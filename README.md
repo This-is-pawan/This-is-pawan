@@ -5,12 +5,11 @@
 
 - 🔭 I’m currently working on **Backend Development with Node.js**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
 - 💬 Ask me about  HTML , CSS , JavaScript , react.js(frontend) 
 
 - 📫 How to reach me: [pawanjalandhara2001@gmail.com](mailto:pawanjalandhara2001@gmail.com)
-- - 🌾 Besides coding, I have a passion for **Agriculture** and by getting motivated able to do coding well.
+  
+- 🌾 Besides coding, I have a passion for **Agriculture** and by getting motivated able to do coding well.
 
 
 ### 🛠 Languages 
@@ -43,9 +42,7 @@
 <a href="https://x.com/pawan0429" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 
 
-## About This Project
 
-(Your project description goes here.)
 
 ### 📊 GitHub Stats:
 <p align="center">
