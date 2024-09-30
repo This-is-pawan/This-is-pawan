@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Backend Development with Node.js**
 
-- 🌱 I’m currently learning **Advanced React.js and DevOps**
+- 🌱 I’m currently learning **Advanced React.js
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **JavaScript, React.js, Node.js, HTML, CSS**
+- 💬 Ask me about  HTML, CSS** ,JavaScript, React.js
 
 - 📫 How to reach me: [pawanjalandhara2001@gmail.com](mailto:pawanjalandhara2001@gmail.com)
 - - 🌾 Besides coding, I have a passion for **Agriculture** and by getting motivated able to do coding well.
@@ -57,7 +57,7 @@
   <a href="https://linkedin.com/in/pawanverma" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="pawanverma" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/pawanverma" target="_blank">
+  <a href="https://twitter.com/@pawan" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="pawanverma" height="30" width="40" />
   </a>
 </p>
