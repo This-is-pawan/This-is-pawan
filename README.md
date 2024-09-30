@@ -36,14 +36,23 @@
 </p>
 
 ---
+# My Project
+
+Welcome to my project! Here’s a fun representation of my GitHub contributions:
+
 <div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <h2> 🔥fire eating my contribution 🔥 </h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+## About This Project
+
+(Your project description goes here.)
+
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pawanverma&show_icons=true&theme=tokyonight" alt="pawanverma" />
