@@ -1,15 +1,15 @@
 <p align="center">
-    <a href="https://github.com/johnsmith"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&lines=Welcome+to+John+Smith's+Profile!;Data+Scientist+and+R+Enthusiast;Lifelong+Learner;Open+Source+Contributor"></a>
+    <a href="https://github.com/pawanvema"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&lines=Welcome+to+John+Smith's+Profile!;Data+Scientist+and+R+Enthusiast;Lifelong+Learner;Open+Source+Contributor"></a>
   </p>
   
   ## 🌟 About Me
   
-  Hi there! I’m **John Smith**, a data scientist with a passion for R programming, machine learning, and open-source contributions. I love solving problems and building solutions that empower others.
+  Hi there! I’m **pawan verma**, a data scientist with a passion for R programming, machine learning, and open-source contributions. I love solving problems and building solutions that empower others.
   
-  - 🔭 I’m currently working on [Project X](https://github.com/johnsmith/project-x)
+  - 🔭 I’m currently working on [Project X](https://github.com/pawanverma/project-x)
   - 🌱 I’m currently learning more about **Deep Learning** and **Shiny Apps**
   - 💬 Ask me about **R**, **Data Science**, or **Contributing to Open Source**
-  - 📫 How to reach me: [Email](mailto:johnsmith@example.com), [LinkedIn](https://www.linkedin.com/in/johnsmith)
+  - 📫 How to reach me: [Email](mailto:pawanverma@example.com), [LinkedIn](https://www.linkedin.com/in/johnsmith)
   - 😄 Pronouns: He/Him
   - ⚡ Fun fact: I once analyzed 1000 datasets just for fun!
   
