@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pawan Verma</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawanverma&label=Profile%20views&color=0e75b6&style=flat" alt="pawanverma" />
-</p>
 
----
 
 ### 👨‍💻 About Me
 
@@ -57,7 +53,7 @@
   <a href="https://linkedin.com/in/pawanverma" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="pawanverma" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/@pawan" target="_blank">
+  <a href="@pawan0429" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="pawanverma" height="30" width="40" />
   </a>
 </p>
