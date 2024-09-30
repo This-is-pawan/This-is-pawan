@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on **Backend Development with Node.js**
 
-- 🌱 I’m currently learning **Advanced React.js
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about  HTML , CSS , JavaScript 
+- 💬 Ask me about  HTML , CSS , JavaScript , react.js(frontend) 
 
 - 📫 How to reach me: [pawanjalandhara2001@gmail.com](mailto:pawanjalandhara2001@gmail.com)
 - - 🌾 Besides coding, I have a passion for **Agriculture** and by getting motivated able to do coding well.
