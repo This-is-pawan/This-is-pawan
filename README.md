@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about  HTML, CSS** ,JavaScript, React.js
+- 💬 Ask me about  HTML , CSS , JavaScript 
 
 - 📫 How to reach me: [pawanjalandhara2001@gmail.com](mailto:pawanjalandhara2001@gmail.com)
 - - 🌾 Besides coding, I have a passion for **Agriculture** and by getting motivated able to do coding well.
@@ -36,7 +36,14 @@
 </p>
 
 ---
-
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pawanverma&show_icons=true&theme=tokyonight" alt="pawanverma" />
