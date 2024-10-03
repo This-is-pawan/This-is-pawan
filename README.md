@@ -34,7 +34,7 @@
 
 ---
 
-## Socials
+## Socials links (or media)
 
 <a href="https://www.github.com/This-is-pawan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://in.linkedin.com/in/pawan-verma-7a8054329" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
