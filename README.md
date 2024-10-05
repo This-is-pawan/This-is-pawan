@@ -3,7 +3,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Backend Development with Node.js**
+- 🔭 I’m currently working on **Backend Development (js , Node.js , mongo)
 
 - 💬 Ask me about  HTML , CSS , JavaScript , react (frontend) 
 
