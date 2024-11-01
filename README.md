@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Backend Development (js , Node.js , mongo)
 
-- 💬 Ask me about  HTML , CSS , JavaScript , react (frontend) 
+- 💬 Ask me about  HTML , CSS , JavaScript , react  
 
 - 📫 How to reach me: [pawanjalandhara2001@gmail.com](mailto:pawanjalandhara2001@gmail.com)
   
