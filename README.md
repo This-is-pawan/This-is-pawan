@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: [pawanjalandhara2001@gmail.com](mailto:pawanjalandhara2001@gmail.com)
   
-- 🌾 Besides coding, I have a passion for **Agriculture** and by getting motivated able to do coding well.
+- 🌾 Apart from coding, I have a passion for agriculture, which motivates me to excel in coding
 
 
 ### 🛠 Languages 
