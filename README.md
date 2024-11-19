@@ -27,10 +27,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a> 
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-  <img src="![image](https://github.com/user-attachments/assets/ed24b993-698a-4973-aa6d-083bd9a4f04a)
-" alt="tailwindcss" width="40" height="40"/> 
-</a>
+ ![Uploading image.png…]()
+
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
