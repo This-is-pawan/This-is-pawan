@@ -3,7 +3,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **react** 
+- 🔭 I’m currently working on **reactjs** 
 
 - 💬 Ask me about  HTML , CSS , JavaScript , react  
 
