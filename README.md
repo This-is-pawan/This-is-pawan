@@ -7,7 +7,7 @@
 
 - 💬 Ask me about  HTML , CSS , JavaScript , react  
 
-- 📫 How to reach me: [pawanjalandhara2001@gmail.com](mailto:pawanjalandhara2001@gmail.com)
+- 📫 How to contact me: [pawanjalandhara2001@gmail.com](mailto:pawanjalandhara2001@gmail.com)
   
 - 🌾 Apart from coding, I have a passion for agriculture, which motivates me to excel in coding
 
