@@ -15,9 +15,9 @@
 ### 🛠 Languages 
 
 <p align="left" dir="auto">
-  HTML   ██████████████░░░░░░░░░░░░ 60%  
-CSS    ███████████░░░░░░░░░░░░░░░ 50%  
-JavaScript   ████████████░░░░░░░░░░░░%50  
+
+
+
 <!-- <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" style="max-width: 100%;"></a>
 <a href="https://www.rust-lang.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" style="max-width: 100%;"></a> -->
 <!-- <a href="https://go.dev/doc/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" style="max-width: 100%;"></a>
