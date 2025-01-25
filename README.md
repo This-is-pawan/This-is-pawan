@@ -60,13 +60,7 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pawanverma&show_icons=true&theme=tokyonight" alt="pawanverma" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanverma&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-### ⏱ Coding Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanverma&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pawanverma&theme=tokyonight" alt="WakaTime Stats" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanverma&theme=tokyonight" alt="GitHub Streak" /> -->
 </p>
 
 
