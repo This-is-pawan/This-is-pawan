@@ -62,7 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pawanverma&show_icons=true&theme=tokyonight" alt="pawanverma" />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanverma&theme=tokyonight" alt="GitHub Streak" /> -->
 </p>
-### docs :- mdndocs
 
 
 
