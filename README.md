@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **backend** 
 
-- 💬 Ask me about  HTML , CSS , JavaScript , react  
+- 💬 Ask me about  HTML , CSS , JavaScript , react etc. 
 
 - 📫 How to contact me: [pawanjalandhara2001@gmail.com](mailto:pawanjalandhara2001@gmail.com)
   
