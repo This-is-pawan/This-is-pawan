@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pawan </h1>
+ <h1 align="center">Hi 👋, I'm Pawan </h1>
 
 
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **backend..** 
 
-- 💬 Ask me about Js,React,Next,(MERN STACK)
+- 💬 Ask me about Js,React,Next,(MERN STACK) so on .
 
 - 📫 How to contact me: [pawanjalandhara2001@gmail.com](mailto:pawanjalandhara2001@gmail.com)
   
