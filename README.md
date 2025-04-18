@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **backend..** 
 
-- 💬 Ask me about Js,React,Next,(MERN STACK) so on .
+- 💬 Ask me about Js,React,Next,(MERN STACK) etc.
 
 - 📫 How to contact me: [pawanjalandhara2001@gmail.com](mailto:pawanjalandhara2001@gmail.com)
   
