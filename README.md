@@ -13,7 +13,7 @@
 - 🌾 Apart from coding, I have a passion for agriculture, which motivates me to excel in coding
 
 
-### 🛠 Languages 
+###  Languages 
 
 <p align="left" dir="auto">
 
