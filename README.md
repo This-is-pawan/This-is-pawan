@@ -13,7 +13,8 @@
 - 🌾 Apart from coding, I have a passion for agriculture, which motivates me to excel in coding
 
 
-###  Languages 
+
+###  Skills
 
 <p align="left" dir="auto">
 
@@ -54,6 +55,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pawanverma&show_icons=true&theme=tokyonight" alt="pawanverma" />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanverma&theme=tokyonight" alt="GitHub Streak" /> -->
 </p>
+
+
+
+ ### Tools for learning more..
+ 1) <img src='<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0a319206-b6f0-4ef0-9be0-b14774cd5a6a" />
 
 
 
