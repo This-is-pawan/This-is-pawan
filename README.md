@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **dsa** 
+- 🔭 I’m currently working on **DSA** 
 
 - 💬 Ask me about Js,Reactjs,Nextjs,etc.
 
