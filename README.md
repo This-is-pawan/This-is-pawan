@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **DSA** 
 
-- 💬 Ask me about Js,Reactjs,Nextjs,etc.
+- 💬 Ask me about MERN STACK .
 
 - 📫 How to contact me: [pawanjalandhara2001@gmail.com](mailto:pawanjalandhara2001@gmail.com)
   
