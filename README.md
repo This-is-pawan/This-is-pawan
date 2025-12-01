@@ -45,13 +45,43 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pawanverma&show_icons=true&theme=tokyonight" alt="pawanverma" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanverma&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">🚀 Coding Journey: 2023 — Present</p>
-<p align="center">© 2023 — <span id="year">CURRENT_YEAR</span></p>
+<p align="center">© 2023 — <span id="year">CURRENT_YEAR</span></p> -->
+name: Update README Year
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-year:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update year in README
+        run: |
+          current_year=$(date +'%Y')
+          sed -i "s/CURRENT_YEAR/$current_year/g" README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "update year" || echo "No update"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
 
 
