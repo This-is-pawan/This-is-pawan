@@ -50,6 +50,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanverma&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<p align="center">🚀 Coding Journey: 2023 — Present</p>
+<p align="center">© 2023 — <span id="year">CURRENT_YEAR</span></p>
+
+
 
  
  ### Learning  
