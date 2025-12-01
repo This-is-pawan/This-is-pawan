@@ -48,6 +48,7 @@
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pawanverma&show_icons=true&theme=tokyonight" alt="pawanverma" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanverma&theme=tokyonight" alt="GitHub Streak" />
+  <img src='https://github-readme-streak-stats.herokuapp.com/'/>
 </p>
 
 <p align="center">🚀 Coding Journey: 2023 — Present</p>
