@@ -56,6 +56,7 @@
  
  ### Learning  
  1) <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0a319206-b6f0-4ef0-9be0-b14774cd5a6a" />
- 2) MDN docs https://developer.mozilla.org/en-US/
+ 2)![GFG](https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200.png)
+
 
 
