@@ -56,9 +56,15 @@
  
  ### Learning  
  1) <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0a319206-b6f0-4ef0-9be0-b14774cd5a6a" />
- 2)<a href="https://developer.mozilla.org/">
-  <img src="https://developer.mozilla.org/static/img/favicon144.png" width="20" height="20" />
-</a>
+<p>
+  <a href="https://developer.mozilla.org/">
+    <img src="https://developer.mozilla.org/static/img/favicon144.png" width="20" height="20" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200.png" width="20" height="20" />
+  </a>
+</p>
+
 
 
 
