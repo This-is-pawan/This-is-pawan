@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **DSA** 
+- 🔭 I’m currently working on **StackNexa** 
 
 - 💬 Ask me about MERN STACK .
 
