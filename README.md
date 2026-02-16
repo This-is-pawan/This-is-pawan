@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **StackNexa** 
+- 🔭 I’m currently working on **OS** 
 
 - 💬 Ask me about MERN STACK .
 
