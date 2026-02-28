@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **OS** 
+- 🔭 I’m currently working on **OS ,C, DSA** 
 
 - 💬 Ask me about MERN STACK .
 
