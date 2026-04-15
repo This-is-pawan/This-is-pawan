@@ -1,28 +1,28 @@
- <h1 align="center">Hi 👋, I'm Pawan </h1>
+<h1 align="center">Hi 👋, I'm Pawan</h1>
+<h3 align="center">🚀 MERN Stack Developer | Passionate Learner | Future Builder</h3>
 
-
+---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **OS ,C, DSA** 
+- 🔭 I’m currently working on **Operating Systems, C, and DSA**
+- 🌱 I’m improving my skills in **Full Stack (MERN) Development**
+- 💬 Ask me about **MERN Stack, JavaScript, React**
+- 📫 Reach me at: **pawanjalandhara2001@gmail.com**
+- 🌾 I have a strong passion for **agriculture**, which motivates my growth in tech
 
-- 💬 Ask me about MERN STACK .
+---
 
-- 📫 How to contact me: [pawanjalandhara2001@gmail.com](mailto:pawanjalandhara2001@gmail.com)
-  
-- 🌾 Apart from coding, I have a passion for agriculture, which motivates me to excel in coding
+### 🚀 Skills
 
-
-
-###  Skills
-
-
-<p align="left">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" />
-  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" />
-  </a> <a href="https://reactjs.org/">
+  </a>
+  <a href="https://reactjs.org/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" />
   </a>
   <a href="https://www.typescriptlang.org/">
@@ -54,38 +54,32 @@
   </a>
 </p>
 
+---
 
+### 📊 GitHub Stats
 
---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
+---
 
+### 📚 Learning Resources
 
-
-
-
-### 📊 GitHub Stats:
-
- <!--<p align="center">-->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=pawanverma&show_icons=true&theme=tokyonight" alt="pawanverma" /> -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanverma&theme=tokyonight" alt="GitHub Streak" /> -->
-<!-- </p> -->
-
- 
-
-
- 
- ### Learning  
- <p>
+<p align="center">
   <a href="https://developer.mozilla.org/">
-    <img src="https://developer.mozilla.org/static/img/favicon144.png" alt="MDN Docs" width="30" height="30" />
+    <img src="https://developer.mozilla.org/static/img/favicon144.png" width="30" height="30" />
   </a>
   <a href="https://www.geeksforgeeks.org/">
-    <img src="https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200.png" alt="GeeksforGeeks" width="30" height="30" />
+    <img src="https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200.png" width="30" height="30" />
   </a>
 </p>
 
+---
 
+### ⚡ Fun Fact
 
+💡 *"From agriculture roots 🌾 to building tech solutions 💻 — I believe consistency beats talent."*
 
-
-
+---
