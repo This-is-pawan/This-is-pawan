@@ -20,11 +20,9 @@
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/">
+  </a> <a href="https://reactjs.org/">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" />
   </a>
   <a href="https://www.typescriptlang.org/">
