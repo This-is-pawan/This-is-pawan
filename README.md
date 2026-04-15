@@ -33,8 +33,8 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanverma&theme=tokyonight" alt="GitHub Streak" /> </p> 
-
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanverma&theme=tokyonight" alt="GitHub Streak" /> </p>  -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanjalandhara&theme=tokyonight" />
 ---
 
 ### 📚 Learning Resources
