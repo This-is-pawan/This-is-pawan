@@ -15,7 +15,7 @@
 
 ### 🚀 Skills
 
-<p align="center">
+<p align="center flex">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" />
   </a>
