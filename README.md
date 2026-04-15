@@ -34,7 +34,7 @@
 ### 📊 GitHub Stats
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawanverma&theme=tokyonight" alt="GitHub Streak" /> </p>  -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&cache_seconds=1" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=This-is-pawan&theme=tokyonight&cache_seconds=1" />
 ---
 
 ### 📚 Learning Resources
