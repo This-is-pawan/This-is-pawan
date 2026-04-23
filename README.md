@@ -9,7 +9,6 @@
 - 🌱 I’m improving my skills in **Full Stack (MERN) Development**
 - 💬 Ask me about **MERN Stack, JavaScript, React**
 - 📫 Reach me at: **pawanjalandhara2001@gmail.com**
-- 📍 India,Punjab🌾
 - 🌾 I have a strong passion for **agriculture**, which motivates my growth in tech
 
 ---
