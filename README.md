@@ -6,8 +6,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Operating Systems, C, and DSA**
-- 🌱 I’m improving my skills in **Full Stack (MERN) Development**
-- 💬 Ask me about **MERN Stack, JavaScript, React**
+- 🌱 I’m improving my skills in **Full Stack Development**
+- 💬 Ask me about **html,css,js,react**
 - 📫 Reach me at: **pawanjalandhara2001@gmail.com**
 - 🌾 I have a strong passion for **agriculture**, which motivates my growth in tech
 
