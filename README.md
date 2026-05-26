@@ -37,16 +37,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=This-is-pawan&theme=tokyonight&cache_seconds=1" />
 ---
 
-### 📚 Learning Resources
 
-<p align="center">
-  <a href="https://developer.mozilla.org/">
-    <img src="https://developer.mozilla.org/static/img/favicon144.png" width="30" height="30" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200.png" width="30" height="30" />
-  </a>
-</p>
+
+
 
 ---
 
