@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Operating Systems, C, and DSA**
 - 🌱 I’m improving my skills in **Full Stack Development**
-- 💬 Ask me about **html,css,js,react**
+- 💬 Ask me about **js,react,nextjs ,ts,**
 - 📫 Reach me at: **pawanjalandhara2001@gmail.com**
 - 🌾 I have a strong passion for **agriculture**, which motivates my growth in tech
 
